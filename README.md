@@ -1,8 +1,29 @@
-<img src="https://camo.githubusercontent.com/8b0045241ba46af9283a8d1efa2e37bf4c8cb6c518400eb114dd785b76a39d3b/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e7426746578743d2532302532305245435425323025323026666f6e74416c69676e3d333026666f6e7453697a653d3330267465787442673d7472756526646573633d557365253230253237746578744267253237253230746f253230686967686c69676874253230253237746578742532372664657363416c69676e3d36302664657363416c69676e593d3530" />
-- #developer
-- Name:-      Agravat Amit R.
-- Number:-    9081250270
-- Email:-     amitagravat.jdg@gmail.com
-- Position :- Backend Developer Intern
-- Role :-     Employee
+<h1 align="center">Hi 👋, I'm Amit Agravat</h1>
+<h3 align="center">A passionate Backend Web-developer from India</h3>
 
+<p align="left"> <a href="https://twitter.com/agravatamit" target="blank"><img src="https://img.shields.io/twitter/follow/agravatamit?logo=twitter&style=for-the-badge" alt="agravatamit" /></a> </p>
+
+- 🔭 I’m currently working on **E - commerce**
+
+- 🌱 I’m currently learning **Laravel, Three.js, Chart.js**
+
+- 💬 Ask me about **Php-Mysql, Laravel**
+
+- 📫 How to reach me **amitagravat.jdg@gmail.com**
+
+- ⚡ Fun fact **I am Happy**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/agravatamit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agravatamit" height="30" width="40" /></a>
+<a href="https://instagram.com/official_amit_agravat_721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_amit_agravat_721" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aagravatjdg&show_icons=true&locale=en&layout=compact" alt="aagravatjdg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aagravatjdg&show_icons=true&locale=en" alt="aagravatjdg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aagravatjdg&" alt="aagravatjdg" /></p>
